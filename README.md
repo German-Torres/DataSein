@@ -4,6 +4,9 @@ Software para la generación y resguardo electrónico de distintos tipos formula
 
 Software for the generation and electronic safeguarding of different types of forms, streamlining the administrative work of the Industrial Safety sector. FRM0487 - Inspection of fall arrest systems. FRM0488 - Electrical Equipment / Tools Inspection. FRM0489 - Inspection of oxyfuel equipment. FRM0490 - Scaffolding and ladder inspection. FRM0491 - Vehicle Inspection. FRM0493 - Inspection of lifting elements. FRM0495 - Inspection of workrooms and / or containers. FRM0497 - Inspection of self-propelled platforms (JLG). FRM0496 - Operational Control. FRM2113 - Fist Tool Inspection. FRM2115 - Inspection of lights and emergency signs. FRM2119 - Inspection of pneumatic hammers. In turn, the database is linked to report documents (MS Excel), making the corresponding indicators update automatic. Development language: C # 4.5 / XAML Architecture: MVVM. Database: MS Access. 
 
+https://drive.google.com/file/d/1yoNPZP-zNasiQa1e2UNFh050QoYzD2py/view?usp=sharing
+(open with Chrome)
+
 ![DataSein_Demo01](https://user-images.githubusercontent.com/95475565/144619539-625a2114-2e41-43d1-95c8-6eef9d9dee4f.gif)
 
 
